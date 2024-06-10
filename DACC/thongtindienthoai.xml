@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<DanhSachDienThoai>
+    <DienThoai>
+        <PhoneName>Iphone 15 Pro Max</PhoneName>
+        <Price>29.990.000đ</Price>
+    </DienThoai>
+    <DienThoai>
+        <PhoneName>Iphone 15 Pro</PhoneName>
+        <Price>25.990.000đ</Price>
+    </DienThoai>
+    <DienThoai>
+        <PhoneName>Iphone 15 Plus</PhoneName>
+        <Price>23.090.000đ</Price>
+    </DienThoai>
+</DanhSachDienThoai>
